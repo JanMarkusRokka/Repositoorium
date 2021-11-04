@@ -1,0 +1,28 @@
+h1 {
+    text-align:center;
+    color: crimson;
+    font-family:Georgia;
+    font-size:300%;
+}
+h2 {
+    color: crimson;
+    font-family: Arial;
+    font-size: 125%;
+}
+h3 {
+    text-align:center;
+    color: crimson;
+    font-family: Arial;
+    font-size: 150%;
+}
+p {
+    text-align:center;
+    color: darkslategray;
+    font-family: Arial;
+    font-size: 150%;
+}
+li {
+    color: darkslategray;
+    font-family: Arial;
+    font-size: 125%;
+}
