@@ -1,1 +1,2 @@
-Siin on tekst. AAAAAAAAAAAA
+Siin on lause.
+Ja teine lause.
